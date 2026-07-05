@@ -1,0 +1,23 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# ide
+.idea/
+.vscode/
+*.iml
+
+# os
+.DS_Store
+
+# logs / artifacts
+*.log
+.coverage

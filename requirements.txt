@@ -1,0 +1,21 @@
+# Web Framework & Server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+websockets==12.0
+
+# Configuration
+python-dotenv==1.0.0
+pydantic-settings==2.0.3
+
+# AI Services
+groq==0.14.0
+
+# Audio Processing
+pyaudio==0.2.14
+miniaudio==1.59
+numpy==1.26.4
+webrtcvad==2.0.10
+
+# Text-to-Speech
+edge-tts==6.1.9
+aiohttp==3.9.1
